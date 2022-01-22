@@ -14,3 +14,9 @@ const db = new Sequelize('piccante', 'username', 'password', {
 
 username diisi dengan username sql yang ada
 password diisi dengan password dari username 
+
+## Minimal Isi dari database "piccante" adalah table "users" ##
+### Database Name : piccante
+### Table Name : users
+### Isi :
+![](img-github/image.png)
