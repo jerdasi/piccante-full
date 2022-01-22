@@ -11,3 +11,6 @@ const db = new Sequelize('piccante', 'username', 'password', {
     host: 'localhost',
     dialect: 'mysql'
 })
+
+username diisi dengan username sql yang ada
+password diisi dengan password dari username 
